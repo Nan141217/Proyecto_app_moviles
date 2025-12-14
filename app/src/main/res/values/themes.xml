@@ -1,5 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Theme.Inicio" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
@@ -25,4 +26,12 @@
     <style name="TextAppearance.App.Menu" parent="TextAppearance.MaterialComponents.Body1">
         <item name="android:textColor">@android:color/black</item>
     </style>
+=======
+    <style name="Base.Theme.TOFULLTOC" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.TOFULLTOC" parent="Base.Theme.TOFULLTOC" />
+>>>>>>> origin/main
 </resources>
